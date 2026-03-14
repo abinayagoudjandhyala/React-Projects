@@ -1,16 +1,9 @@
-# React + Vite
+# Profile Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Profile Card project built using React. The purpose of this project was to understand how React components work and how we can build small UI elements using React.
 
-Currently, two official plugins are available:
+While doing this project, I learned how to create functional components and organize a project into different files. I also practiced using JSX to design the layout of the profile card.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+In this project I focused on building a clean profile card interface that displays basic information such as name, image and description.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project helped me understand the basic structure of a React application and how React can be used to create reusable UI components.
