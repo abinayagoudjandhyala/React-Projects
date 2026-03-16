@@ -1,16 +1,9 @@
-# React + Vite
+# Feedback Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project where I created a feedback form. The form allows users to enter their name and a message and submit their feedback.
 
-Currently, two official plugins are available:
+While doing this project, I learned how to use the useState hook in React to manage input values. I also practiced handling form submission and updating the UI dynamically after the user submits the form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+In this project, once the user submits the form, the feedback entered by the user is displayed on the screen. I also learned how to handle input fields and textarea in React.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project helped me understand basic React concepts such as state management, event handling, and conditional rendering.
