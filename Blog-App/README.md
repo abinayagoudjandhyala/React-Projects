@@ -1,16 +1,9 @@
-# React + Vite
+# Blog App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Blog App built using React. The app displays a list of blog posts on the home page and allows users to click and view each post on a separate page.
 
-Currently, two official plugins are available:
+While doing this project, I learned how to use React Router for navigation between pages. I also understood how to create multiple components and organize them properly in a project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+In this project, I used a separate data file to store blog information and displayed it dynamically. I also learned how to use URL parameters to show individual blog posts.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project helped me understand routing, component structure, and how to build a multi-page application using React.
